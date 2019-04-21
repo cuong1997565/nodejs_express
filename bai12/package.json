@@ -1,0 +1,17 @@
+{
+  "name": "bai12",
+  "version": "1.0.0",
+  "description": "Đây là file CSS và thư viện của Sky Albert Channel trong playlist",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "nodemon": "^1.18.11"
+  }
+}
